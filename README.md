@@ -3,6 +3,12 @@ Eclipse IDE formatter settings for Java applications
 
 ## Usage
 
+Download the settings.
+
+```sh
+wget https://raw.github.com/m3dev/eclipse-formatter.xml/master/eclipse-formatter.xml
+```
+
 Specify this xml file in the project settings.
 
 ![screen_shot1](https://github.com/m3dev/eclipse-formatter.xml/raw/master/img/project_settings1.png)
